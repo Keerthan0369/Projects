@@ -20,7 +20,7 @@ if(choice==1)
 
 printf("Enter currency in INR\n");
 scanf("%f",&inr);
-usd_c=(1/77.53)*inr;
+usd_c=(1/79.33)*inr;
 printf("Converted currency in USD:\n");
 printf("%0.2f",usd_c);
 
@@ -29,7 +29,7 @@ else if(choice==2)
 {
 printf("Enter currency in USD\n");
 scanf("%f",&usd);
-inr_c=(77.53)*usd;
+inr_c=(79.33)*usd;
 printf("Converted currency in INR\n");
 printf("%0.2f",inr_c);
 
@@ -37,7 +37,7 @@ printf("%0.2f",inr_c);
 else if(choice==3)
 {printf("Enter currency in INR\n");
 scanf("%f",&inr);
-aed_c=(1/21.10)*inr;
+aed_c=(1/21.6)*inr;
 printf("Converted currency in AED\n");
 printf("%0.3f",aed_c);
 
@@ -46,7 +46,7 @@ else if(choice==4)
 {
 printf("Enter currency in AED\n");
 scanf("%f",&aed);
-inr_c=(21.10)*aed;
+inr_c=(21.6)*aed;
 printf("Converted currency in INR\n");
 printf("%0.3f",inr_c);
 
