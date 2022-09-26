@@ -1,4 +1,4 @@
-# Learn-Build-Internship
+# Projects
 The first  Arduino Robotics file  is based on following problem statements. 
  
 1. Create Edge Detector Robot
