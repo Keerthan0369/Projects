@@ -17,7 +17,7 @@ The Second file is based on C programming problem statements.
 2. Currency (INR to USD, INR to AED & vice-versa)
 3. Number Conversion (binary to hexadecimal, binary to decimal, hexadecimal to binary, decimal to binary). 
 
-The Third File is based on Facial Recognition using Raspberry Pi and Python. 
+The Third File is based on Facial Recognition using Raspberry Pi and Python for Smart Human Computer Interaction. 
 
 Face Recognition Security System using Rpi.
 - Use Python modules to detect faces.
